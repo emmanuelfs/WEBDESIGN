@@ -1,0 +1,15 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{    
+    color: white;
+    background-color: black;
+}
+.changingColor
+{
+    color: rgba(0, 255, 136, 0.589);
+}
+
